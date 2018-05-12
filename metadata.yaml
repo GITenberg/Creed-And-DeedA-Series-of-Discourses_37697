@@ -1,0 +1,33 @@
+_repo: Creed-And-DeedA-Series-of-Discourses_37697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adler, Felix
+    birthdate: 1851
+    deathdate: 1933
+    gutenberg_agent_id: '25008'
+    url: http://www.gutenberg.org/2009/agents/25008
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Adler_%28Society_for_Ethical_Culture%29
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcc 'BL'
+- !lcsh 'Ethical culture movement'
+- !lcsh 'Ethics'
+tableOfContents: 'Immortality -- Religion -- The new ideal -- The priests of the ideal
+  -- The form of the new ideal -- The religious conservatism of women -- Our consolations
+  -- Spinoza -- The founder of Christianity -- The first anniversary discourse --
+  Appendix: The evolution of Hebrew religion. Reformed Judaism.'
+title: 'Creed and Deed: A Series of Discourses'
+url: http://www.gutenberg.org/ebooks/37697
